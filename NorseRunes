@@ -1,6 +1,0 @@
-@font-face {
- font-family: viking;
- font-style: normal;
- font-weight: 400;
- src: url(https://rawcdn.githack.com/AmeliaNite/Norse-Font/4be94932b4d6780c53e36f6ca23e4a03a8277ee8/viking.ttf);
-}
