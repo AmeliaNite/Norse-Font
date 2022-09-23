@@ -2,5 +2,5 @@
  font-family: Norse Runes;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/AmeliaNite/Norse-Font/c4dc97a3e6a30354902b836184c39dc994dec154/NotoSansRunic-Regular.ttf);
 }
