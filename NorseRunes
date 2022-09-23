@@ -2,5 +2,5 @@
  font-family: norserunes;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/AmeliaNite/Norse-Font/c4dc97a3e6a30354902b836184c39dc994dec154/NotoSansRunic-Regular.ttf);
+ src: url(https://rawcdn.githack.com/AmeliaNite/Norse-Font/732bb865aba4a52a1e725108ff3e1920b3e2e68f/NotoSansRunic-Regular.ttf);
 }
